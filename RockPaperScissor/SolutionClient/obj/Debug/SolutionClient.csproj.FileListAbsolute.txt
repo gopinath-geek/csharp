@@ -1,0 +1,8 @@
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\bin\Debug\SolutionClient.exe.config
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\bin\Debug\SolutionClient.exe
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\bin\Debug\SolutionClient.pdb
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\bin\Debug\ScrapeLibrary.dll
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\bin\Debug\ScrapeLibrary.pdb
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\obj\Debug\SolutionClient.csprojResolveAssemblyReference.cache
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\obj\Debug\SolutionClient.exe
+D:\Gopinath\development\csharp\TestBlankSolution\SolutionClient\obj\Debug\SolutionClient.pdb

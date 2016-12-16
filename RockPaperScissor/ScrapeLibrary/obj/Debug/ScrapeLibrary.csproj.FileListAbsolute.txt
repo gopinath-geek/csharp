@@ -1,0 +1,4 @@
+D:\Gopinath\development\csharp\TestBlankSolution\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+D:\Gopinath\development\csharp\TestBlankSolution\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+D:\Gopinath\development\csharp\TestBlankSolution\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+D:\Gopinath\development\csharp\TestBlankSolution\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb
